@@ -1,0 +1,14 @@
+{
+  "projeto": "Move — Pilates & Bem-estar",
+  "observacao": "Dados demonstrativos, sem pessoas reais e sem senhas. São carregados como dados iniciais quando o navegador ainda não tem informações salvas.",
+  "contasDemo": [
+    { "nome": "Cristiane Silva", "email": "admin@move.com.br", "perfil": "admin" },
+    { "nome": "Camila Souza", "email": "aluno@move.com.br", "perfil": "aluno" }
+  ],
+  "horariosPadrao": {
+    "diasUteis": ["07:00", "09:00", "10:00", "14:00", "16:00", "18:00"],
+    "sabado": ["08:00", "09:00", "10:00"],
+    "domingo": []
+  },
+  "regraAlunoAntecedenciaHoras": 24
+}
